@@ -1,0 +1,12 @@
+Adrian Marinovich - Capstone Project ideas
+
+1. Classification of seagoing vessels based on their underwater acoustic signature:
+This would be accomplished by correlation of underwater acoustic data at fixed ocean locations to Universal Shipborne Automatic Identification System (AIS) tracking of vessels passing in sea lanes near those locations. This classification method may be useful to clients in government and the maritime industry by providing an alternative to AIS tracking. The aim would be to classify vessels across a range of characteristics, including vessel size, type (cargo, tanker, fishing, etc.), propulsion characteristics, and possibly individual vessel identity. Vessel location, direction and speed may also be assessed. Acoustic data are freely available from the Ocean Observatories Initiative, and AIS tracking is available via sites such as aishub.net and shipplotter.com. 
+
+2. Kaggle's TrackML Particle Tracking Challenge:
+To quote the Kaggle website (https://www.kaggle.com/c/trackml-particle-identification/) this challenges participants to "build an algorithm that quickly reconstructs particle tracks from 3D points left in the silicon detectors" in the CERN Large Hadron Collider, specifically to "group the recorded measurements or hits for each event into tracks, sets of hits that belong to the same initial particle. A solution must uniquely associate each hit to one track." The client would be the high-energy physics research community, which has demand for new algorithms to process increasing data loads from next-generation particle experiments. The training and test datasets are provided by CERN via Kaggle, and consist of 3D simulated measurements of particles resulting from proton collisions, such that the "training dataset contains the recorded hits, their ground truth counterpart and their association to particles, and the initial parameters of those particles. The test dataset contains only the recorded hits."
+
+3. Classification of mass-spectrometry data:
+Using the MicroMass data set available on the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/MicroMass), this project would seek to classify bacteria based on their MALDI-TOF spectra. The clients would include the government and pharmaceutical industry interested in algorithms for rapid identification of bacteria by mass spectrometry. The dataset includes 571 spectra from 213 bacterial strains.
+
+
