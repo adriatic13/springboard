@@ -1,6 +1,6 @@
 Adrian Marinovich - Capstone Project ideas
 
-1. Classification of seagoing vessels based on their underwater acoustic signature:
+1. Classification of seagoing vessels based on their underwater acoustic signature: 
 This would be accomplished by correlation of underwater acoustic data at fixed ocean locations to Universal Shipborne Automatic Identification System (AIS) tracking of vessels passing in sea lanes near those locations. This classification method may be useful to clients in government and the maritime industry by providing an alternative to AIS tracking. The aim would be to classify vessels across a range of characteristics, including vessel size, type (cargo, tanker, fishing, etc.), propulsion characteristics, and possibly individual vessel identity. Vessel location, direction and speed may also be assessed. Acoustic data are freely available from the Ocean Observatories Initiative, and AIS tracking is available via sites such as aishub.net and shipplotter.com. 
 
 2. Kaggle's TrackML Particle Tracking Challenge:
