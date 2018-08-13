@@ -1,0 +1,15 @@
+Adrian Marinovich - Capstone Project idea - Additional (August 13, 2018)
+
+Classification of emotion using the Ryerson RAVDESS video database: Machine learning techniques will be used to classify 6 'culturally universal' primary emotions (happy, sad, angry, fearful, surprise, disgust) using data derived from video clips of facial expressions performed by actors during speech and song in a structured setting, for which validated ground truth emotional expression has been specified. There may be a wide range of clients interested in the emotional classification from video of human facial expression, including robotics applications to allow for more emotionally responsive human-robot interactions. Ways the Springboard curriculum may be followed in the development of this project include:
+   Data wrangling - Conversion of video clips to machine-readable data format
+                  - Breakdown of video data to training, validation and test sets
+   Exploratory data analysis - Emotional classification on representative static images 
+                               using segmentation of head, eyes and eyebrows and mouth, and using dynamic video for movement tracking of these and other segments
+   Machine learning - Emotional classification using neural networks, both on static 
+                      images and dynamic video
+
+   Additional work may extend to analysis of accompanying audio, and to differentiation between speech and song.
+   
+Reference:
+Livingstone SR, Russo FA (2018) The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): A dynamic,multimodal set of facial and vocal expressions in
+North American English. PLoS ONE 13(5):e0196391. https://doi.org/10.1371/journal.pone.0196391
