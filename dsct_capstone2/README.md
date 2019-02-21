@@ -8,7 +8,7 @@ The project report can be viewed [here](https://github.com/adriatic13/springboar
 
 The data may be obtained from:
 
-http://crcv.ucf.edu/data/UCF101/UCF101.rar
+  *http://crcv.ucf.edu/data/UCF101/UCF101.rar
 
 The code was adapted, with thanks, from:
 
