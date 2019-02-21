@@ -7,6 +7,7 @@ This project comprises the development of a model that classifies human actions 
 The project report can be viewed [here](https://github.com/adriatic13/springboard/blob/master/dsct_capstone2/Marinovich_Cap2_Final_Report.pdf).
 
 The data may be obtained from:
+
 http://crcv.ucf.edu/data/UCF101/UCF101.rar
 
 The code was adapted, with thanks, from:
