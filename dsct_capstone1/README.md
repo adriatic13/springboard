@@ -12,7 +12,7 @@ Two smile/non-smile labeled datasets are used: a small set and a large set. As t
 
 The code was adapted (with thanks) from various sources:
 
- - Plotting code from:
+Plotting code from:
 
   * https://github.com/ageron/handson-ml/blob/master/07_ensemble_learning_and_random_forests.ipynb 
 
@@ -30,7 +30,7 @@ CNN VGG-like model code from:
 
 The notebooks should be run in the following order (noting that directory locations should be modified):
 
-  * [Data wrangling](https://github.com/adriatic13/springboard/blob/master/dsct_capstone2/Adrian_Marinovich___Cap2L_data_wrangling190221_.ipynb)
-  * [Feature extraction](https://github.com/adriatic13/springboard/blob/master/dsct_capstone2/Adrian_Marinovich___Cap2L_feature_extraction180221.ipynb)
-  * [Modeling](https://github.com/adriatic13/springboard/blob/master/dsct_capstone2/Adrian_Marinovich___Cap2L_modeling190221.ipynb)
+  * [Data wrangling](https://github.com/adriatic13/springboard/blob/master/dsct_capstone1/Adrian_Marinovich_Cap1_smiles_data_wrangling.ipynb)
+  * [Initial modeling](https://github.com/adriatic13/springboard/blob/master/dsct_capstone1/Adrian_Marinovich_Cap1_smiles_eda.ipynb)
+  * [In-depth modeling](https://github.com/adriatic13/springboard/blob/master/dsct_capstone1/Adrian_Marinovich_Cap1_smiles_indepth.ipynb)
 ###### (Due to issues with GitHub rendering notebooks, you might need to view these notebooks by pasting link [here](https://nbviewer.jupyter.org/))
