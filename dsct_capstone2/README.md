@@ -20,8 +20,8 @@ The code was adapted (with thanks) from:
   * https://github.com/wushidonguc/two-stream-action-recognition-keras 
 
 The code should be run in the following order (noting that directory locations should be modified):
-###### (Due to issues with GitHub rendering notebooks, you might need to view these notebooks by pasting link [here](https://nbviewer.jupyter.org/))
 
   * [Data wrangling](https://github.com/adriatic13/springboard/blob/master/dsct_capstone2/Adrian_Marinovich___Cap2L_data_wrangling190221_.ipynb)
   * [Feature extraction](https://github.com/adriatic13/springboard/blob/master/dsct_capstone2/Adrian_Marinovich___Cap2L_feature_extraction180221.ipynb)
   * [Modeling](https://github.com/adriatic13/springboard/blob/master/dsct_capstone2/Adrian_Marinovich___Cap2L_modeling190221.ipynb)
+###### (Due to issues with GitHub rendering notebooks, you might need to view these notebooks by pasting link [here](https://nbviewer.jupyter.org/))
