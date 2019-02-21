@@ -1,4 +1,4 @@
-##  Detection of smiles in images of faces
+##  Detection of smiles in face images
 
 This repository contains files related to the Springboard Data Science Career Track Capstone Project #1.
 
