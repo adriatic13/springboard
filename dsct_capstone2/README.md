@@ -24,4 +24,4 @@ The notebooks should be run in the following order (noting that directory locati
   * [Data wrangling](https://github.com/adriatic13/springboard/blob/master/dsct_capstone2/Adrian_Marinovich___Cap2L_data_wrangling190221_.ipynb)
   * [Feature extraction](https://github.com/adriatic13/springboard/blob/master/dsct_capstone2/Adrian_Marinovich___Cap2L_feature_extraction180221.ipynb)
   * [Modeling](https://github.com/adriatic13/springboard/blob/master/dsct_capstone2/Adrian_Marinovich___Cap2L_modeling190221.ipynb)
-###### (Due to issues with GitHub rendering notebooks, you might need to view these notebooks by pasting link [here](https://nbviewer.jupyter.org/))
+###### (Due to issues with GitHub rendering Jupyter notebooks, you might need to view notebooks by pasting their link [here](https://nbviewer.jupyter.org/))
