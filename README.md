@@ -1,7 +1,7 @@
 ## Springboard projects
 This repository contains files related to Springboard data science coursework.
 
-Some higlights:
+Some highlights:
 
   * Model development for detecting smiles in face images can be viewed [here](https://github.com/adriatic13/springboard/tree/master/dsct_capstone1).
 
