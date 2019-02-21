@@ -12,21 +12,21 @@ Two smile/non-smile labeled datasets are used: a small set and a large set. As t
 
 The code was adapted (with thanks) from various sources:
 
-  * Plotting code from:
+ - Plotting code from:
 
-   https://github.com/ageron/handson-ml/blob/master/07_ensemble_learning_and_random_forests.ipynb 
+  * https://github.com/ageron/handson-ml/blob/master/07_ensemble_learning_and_random_forests.ipynb 
 
-  * DNN model code:
+DNN model code:
 
-   https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+  * https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 
-  * CNN model code from:
+CNN model code from:
 
-   https://towardsdatascience.com/image-recognition-with-keras-convolutional-neural-networks-e2af10a10114
+  * https://towardsdatascience.com/image-recognition-with-keras-convolutional-neural-networks-e2af10a10114
 
-  * CNN VGG-like model code from:
+CNN VGG-like model code from:
 
-   https://keras.io/getting-started/sequential-model-guide/
+  * https://keras.io/getting-started/sequential-model-guide/
 
 The notebooks should be run in the following order (noting that directory locations should be modified):
 
