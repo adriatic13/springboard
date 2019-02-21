@@ -33,4 +33,5 @@ The notebooks should be run in the following order (noting that directory locati
   * [Data wrangling](https://github.com/adriatic13/springboard/blob/master/dsct_capstone1/Adrian_Marinovich_Cap1_smiles_data_wrangling.ipynb)
   * [Initial modeling](https://github.com/adriatic13/springboard/blob/master/dsct_capstone1/Adrian_Marinovich_Cap1_smiles_eda.ipynb)
   * [In-depth modeling](https://github.com/adriatic13/springboard/blob/master/dsct_capstone1/Adrian_Marinovich_Cap1_smiles_indepth.ipynb)
-###### (Due to issues with GitHub rendering notebooks, you might need to view these notebooks by pasting link [here](https://nbviewer.jupyter.org/))
+###### (Due to issues with GitHub rendering Jupyter notebooks, you might need to view notebooks by pasting their link [here](https://nbviewer.jupyter.org/))
+
