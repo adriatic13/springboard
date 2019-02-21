@@ -2,7 +2,7 @@
 
 This repository contains files related to the Springboard Data Science Career Track Capstone Project #1.
 
-The project comprises the development of a model that detects the presence of smiles in cropped images of faces derived from the [Labeled Faces in the Wild (LFW) dataset](https://conradsanderson.id.au/lfwcrop/)
+The project comprises the development of models that detect the presence of smiles in cropped images of faces derived from the [Labeled Faces in the Wild (LFW) dataset](https://conradsanderson.id.au/lfwcrop/)
 
 The project report can be viewed [here](https://github.com/adriatic13/springboard/blob/master/dsct_capstone1/Marinovich_Cap1_Final_Report.pdf).
 
