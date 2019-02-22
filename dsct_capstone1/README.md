@@ -12,7 +12,7 @@ Two smile/non-smile labeled datasets are used: a small set and a large set. As t
 
 The code was adapted (with thanks) from various sources:
 
-Randome forest and plotting code:
+Random forest and plotting code:
 
   * https://github.com/ageron/handson-ml/blob/master/07_ensemble_learning_and_random_forests.ipynb 
 
