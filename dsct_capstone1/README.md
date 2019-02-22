@@ -12,19 +12,19 @@ Two smile/non-smile labeled datasets are used: a small set and a large set. As t
 
 The code was adapted (with thanks) from various sources:
 
-Random forest and plotting code:
+Random forest and plotting:
 
   * https://github.com/ageron/handson-ml/blob/master/07_ensemble_learning_and_random_forests.ipynb 
 
-DNN model code:
+DNN modeling:
 
   * https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 
-CNN model code:
+CNN modeling:
 
   * https://towardsdatascience.com/image-recognition-with-keras-convolutional-neural-networks-e2af10a10114
 
-CNN VGG-like model code:
+CNN VGG-like modeling:
 
   * https://keras.io/getting-started/sequential-model-guide/
 
