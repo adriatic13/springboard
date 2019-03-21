@@ -1,4 +1,4 @@
-## Springboard projects
+## Springboard projects 
 This repository contains files related to Springboard data science coursework.
 
 Some highlights:
